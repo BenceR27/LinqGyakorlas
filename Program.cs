@@ -201,7 +201,7 @@ namespace LinqGyakorlo
             foreach (var item in result)
             {
                 Console.WriteLine(item);
-            }
+                }
             Console.WriteLine("\n");
         }
 
